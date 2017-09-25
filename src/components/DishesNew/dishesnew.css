@@ -1,0 +1,15 @@
+.dishes-new-control-warpper{
+  font-size: 12px;
+  margin-bottom: 24px;
+  color: rgba(0, 0, 0, 0.65);
+  vertical-align: top;
+}
+.dishes-new-control{
+  position: relative;
+}
+.dishes-new-control-input{
+  position: absolute;
+  width: 0;
+  height: 0;
+  z-index: 5;
+}
